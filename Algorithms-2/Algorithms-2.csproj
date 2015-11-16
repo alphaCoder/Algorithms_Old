@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Graphs\Digraph.cs" />
+    <Compile Include="Graphs\EdgeWeightedGraph.cs" />
+    <Compile Include="Graphs\Graph.cs" />
+    <Compile Include="Graphs\KruskalMST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
